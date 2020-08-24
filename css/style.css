@@ -1,0 +1,1113 @@
+@charset "UTF-8";
+
+.newsletter-wrapper.bck-off-grey {
+    margin-top: -40px !important
+}
+
+.catalog-category-view .vaimo-cms .widget-static-block img {
+    width: auto
+}
+
+nav#breadcrumbs {
+    display: none
+}
+
+p.note-msg {
+    display: none
+}
+
+.vaimo-cms>[class*=col-],
+.no-gutter>[class*=col-] {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.underwear101 .antiWidow {
+    display: inline-block
+}
+
+.underwear101 {
+    text-align: center;
+    margin-top: -28px
+}
+
+.underwear101 .darkgrayblock {
+    background-color: #231F20;
+
+}
+
+.underwear101 .darkgrayblock h3 {
+    color: #fff;
+    margin: 0;
+    font-size: 47px;
+    margin-top: 30px;
+    display: inline-block;
+    line-height: 37px;
+    font-weight: 700;
+    margin-bottom: 2rem
+}
+
+.underwear101 .darkgrayblock p {
+    color: #fff;
+    margin: 0;
+
+    line-height: 37px;
+    margin-bottom: 2rem
+}
+
+.underwear101 .darkgrayblock p a {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.underwear101 .darkgrayblock p a:hover {
+    text-decoration: none;
+}
+
+
+.underwear101 img {
+    margin: auto
+}
+
+.underwear101 a:hover {
+    text-decoration: none
+}
+
+.underwear101 h2,
+.underwear101 h3,
+.underwear101 h4,
+.underwear101 h5,
+.underwear101 a,
+.underwear101 p {
+    font-family: inter ui;
+    font-style: normal;
+    color: #000
+}
+
+.underwear101 h2 {
+    font-size: 102px;
+    letter-spacing: 5px;
+    font-weight: 700
+}
+
+.underwear101 h3 {
+    font-size: 60px;
+    margin: 84px 0 32px;
+    line-height: 66px;
+    text-transform: lowercase;
+    font-weight: 700
+}
+
+.underwear101 h4 {
+    font-size: 40px;
+    margin: 5rem 0 2.6rem;
+    font-weight: 700;
+}
+
+.underwear101 p {
+    font-size: 25px;
+    letter-spacing: 1px;
+    line-height: 35px;
+    font-weight: 400
+}
+
+.underwear101 p.smText {
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 400
+}
+
+.underwear101 p.smText span {
+    font-size: 47px;
+    margin-top: 30px;
+    display: inline-block;
+    line-height: 37px;
+    font-weight: 700;
+    color: #231F20;
+    margin-bottom: 2rem;
+}
+
+.underwear101 ul {
+    padding-left: 0;
+    margin-top: 18px;
+    font-weight: 400
+}
+
+.underwear101 li {
+    display: inline-block;
+    padding: 0;
+    font-weight: 400
+}
+
+.underwear101 li a {
+    padding: 0 10px 2px;
+    font-size: 25px;
+    border-bottom: 2px solid #000;
+    text-decoration: none;
+    font-weight: 400;
+    border-radius: 0;
+    text-transform: uppercase;
+}
+
+.underwear101 li:nth-child(2) a {
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    margin-left: -6px;
+    margin-right: -6px
+}
+
+.underwear101 li a:hover {
+    border-bottom-color: #fff;
+    color: #fff
+}
+
+.underwear101 .mrp-btn-black {
+    background-color: transparent;
+    border-color: #000;
+    color: #000;
+    margin: auto;
+    text-decoration: none;
+    font-family: "Inter UI", sans-serif;
+    font-size: 12px;
+    padding: 6px 0;
+    width: 180px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.underwear101 .mrp-btn-black:hover {
+    border-color: #000;
+    color: #fff;
+    background-color: #000;
+}
+
+.underwear101 .blkBdr {
+    margin-top: 50px
+}
+
+.underwear101 .blkBdr {
+    border: 10px solid #000000;
+    padding: 50px 10px 30px;
+    height: 45rem;
+}
+
+.underwear101 .two .blkBdr {
+    border: 10px solid #ECCED1;
+}
+
+.underwear101 .pnkBg,
+.underwear101 .pnkBlock {
+    background-color: #ECCED1
+}
+
+/* .underwear101 .yellowBg {
+    background-color: #fff6dd
+} */
+
+.underwear101 .blkBdr .mrp-btn-black {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 8%;
+}
+
+.underwear101 .two .blkBdr .btn.mrp-btn-black {
+    bottom: 8%;
+}
+
+.under .underwear101 .bgImg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+}
+
+.underwear101 .one.bgImg {
+    background-image: url(https://www.mrp.com/cdn/01/content/2017/wk33/img/i1.jpg)
+}
+
+.underwear101 .seven .bgImg {
+    background-image: url(https://www.mrp.com/cdn/01/content/2017/wk33/img/i6V2.jpg);
+    display: inline-block
+}
+
+.underwear101 .one img.heading {
+    width: 49.5% !important;
+    margin: 24rem auto 10rem;
+}
+
+
+.underwear101 .seven .bgImgWrap {
+    margin-bottom: -6px
+}
+
+
+
+.underwear101 .nine .blkDot {
+    color: #000;
+    background-color: #ECCED1;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    /* display: inline-block; */
+    font-size: 20px;
+    line-height: 1.3;
+    padding-top: 49px;
+    margin-top: 3rem;
+    font-weight: 500;
+}
+
+.underwear101 .nine .blkDot span {
+
+    display: inline-block;
+    font-weight: 700;
+}
+
+.underwear101 .nine .measurement {
+    display: flex;
+    grid-template-columns: repeat(6, 1fr);
+    justify-content: space-between;
+    /* width: 98%;
+    margin: 0 auto; */
+}
+
+.underwear101 .nine .btn.mrp-btn-black {
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+
+
+
+.underwear101 .one img {
+    width: 100% !important
+}
+
+.underwear101 #ASpot {
+
+    background-color: #ECCED1;
+}
+
+
+
+.underwear101 h2 {
+    margin: 94px auto 90px;
+    line-height: 112px
+}
+
+
+.underwear101 .two {
+    margin-bottom: 10rem;
+}
+
+.underwear101 .one p {
+    line-height: 44px;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.underwear101 .firstP {
+    margin-top: 215px
+}
+
+.underwear101 .one .mrp-btn-black {
+    margin-top: 2rem;
+    margin-bottom: 72px;
+    display: inline-block !important
+}
+
+.underwear101 .one .leftCta {
+    margin-right: 10px
+}
+
+.underwear101 .one .rightCta {
+    margin-left: 10px
+}
+
+.underwear101 .three {
+    padding-bottom: 5rem;
+}
+
+.underwear101 .three p {
+    margin: auto;
+    line-height: 36px;
+    width: 51%;
+}
+
+
+.underwear101 .four {
+    padding-bottom: 20px
+}
+
+.underwear101 .four img {
+    margin-bottom: 1rem;
+}
+
+.underwear101 .four .blkDot {
+    color: #000;
+    background-color: #E7C6C3;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    padding-top: 22px;
+    font-weight: 700;
+}
+
+.underwear101 .four .blkDot {
+
+    margin-top: 10rem;
+}
+
+.underwear101 .four .smText {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 90px;
+    line-height: 24px
+}
+
+.underwear101 .five {
+    padding: 36px 0 50px
+}
+
+.underwear101 .five h4 {
+    font-size: 46px
+}
+
+.underwear101 .five .ninetyDegRot {
+    transform: rotate(-90deg)
+}
+
+.underwear101 .six {
+    padding-bottom: 0;
+    margin-top: 4%;
+}
+
+.underwear101 .nine .labelSize {
+    width: 90%;
+    margin-top: -61rem;
+}
+
+.underwear101 .six .mrp-btn-black {
+    margin-top: 39px
+}
+
+.row.eight {
+    background-color: #ecced1;
+    padding-bottom: 70rem;
+
+}
+
+.underwear101 .seven .bgImg {
+    margin-top: -200px
+}
+
+.underwear101 .pnkBlock {
+    padding: 172px 90px 70px
+}
+
+.underwear101 .pnkBlock p {
+    margin-bottom: 101px
+}
+
+.underwear101 .pnkBlock .mrp-btn-black {
+    margin-top: 9px;
+    margin-bottom: 22px
+}
+
+.underwear101 .eight .blkBdr,
+.underwear101 .eight .pnkBlock {
+    height: 45rem;
+    margin-top: 50px;
+}
+
+.underwear101 .eight img {
+    max-height: 180px
+}
+
+.underwear101 .nine {
+    margin-top: 0;
+    padding-top: 15px;
+    padding-bottom: 120px;
+    /* margin-top: 60px */
+}
+
+.underwear101 .nine li a {
+    color: #fff;
+    border-bottom: 2px solid #fff
+}
+
+.underwear101 .nine li a:hover {
+    border-bottom-color: transparent
+}
+
+.underwear101 .nine li:nth-child(2) a {
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff
+}
+
+.underwear101 .nine .bttBtn {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: #000;
+    border: none
+}
+
+.underwear101 .ten {
+    margin-top: 60px
+}
+
+.underwear101 .ten img {
+    max-width: 600px
+}
+
+.underwear101 .extendedSizes h3 {
+    margin-top: 0
+}
+
+.underwear101 .extendedSizes p {
+    margin-bottom: 56px
+}
+
+.underwear101 .extendedSizes .txtLink {
+    text-decoration: underline
+}
+
+.underwear101 .extendedSizes .txtLink:hover {
+    text-decoration: none
+}
+
+.underwear101 .eleven {
+    background-color: #ffe8e4;
+    margin-top: 60px;
+    padding-bottom: 60px
+}
+
+.underwear101 .eleven p {
+    margin-bottom: 20px
+}
+
+.underwear101 .eleven iframe {
+    width: 100%;
+    border: none
+}
+
+
+
+
+
+
+@media(min-width:2000px) {
+
+    .underwear101 .mrp-btn-black {
+
+        width: 210px;
+        font-size: 18px;
+    }
+
+    .underwear101 .one p {
+        max-width: 60%;
+    }
+
+    .underwear101 h4 {
+        font-size: 40px;
+        margin: 4rem 0 2.6rem;
+        font-weight: 700;
+    }
+
+    .underwear101 p {
+        font-size: 25px;
+        letter-spacing: 1px;
+        line-height: 35px;
+        font-weight: 400;
+    }
+
+    .underwear101 p.smText {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+}
+
+
+@media(max-width:1800px) {
+
+    .underwear101 h4 {
+        margin: 5rem 0 2.6rem;
+    }
+}
+
+
+
+
+
+
+
+
+@media(max-width:1500px) {
+
+    .underwear101 .firstP {
+        margin-top: 120px
+    }
+
+    .underwear101 h2 {
+        margin: 60px auto
+    }
+
+    .underwear101 .one p {
+        max-width: 90%
+    }
+
+    .underwear101 .one img.heading {
+        width: 49.5% !important;
+        margin: 15rem auto 10rem;
+    }
+
+    .underwear101 .one img.heading {
+        width: 72.5% !important;
+        margin: 15rem auto 7rem;
+    }
+
+}
+
+@media(max-width:1300px) {
+    .underwear101 h2 {
+        font-size: 70px;
+        margin: 50px auto;
+        line-height: 76px
+    }
+
+    .underwear101 .firstP {
+        margin-top: 60px
+    }
+
+    .underwear101 .one img.heading {
+        width: 72.5% !important;
+        margin: 11rem auto 4rem;
+    }
+
+    .underwear101 .one p {
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 22px;
+        letter-spacing: 1px;
+        line-height: 1.4;
+    }
+
+}
+
+
+@media(max-width:1199px) {
+
+
+
+    .underwear101 h2 {
+        font-size: 50px;
+        margin: 40px auto
+    }
+
+    .underwear101 .one .mrp-btn-black {
+        margin-top: 50px;
+        margin-bottom: 50px
+    }
+
+    .underwear101 .mrp-btn-black {
+        width: 230px
+    }
+
+    .underwear101 .pnkBlock .mrp-btn-black {
+        margin-top: 10px;
+        margin-bottom: 22px
+    }
+
+    .underwear101 .two img {
+        max-height: 150px
+    }
+
+    .underwear101 .two .blkBdr .mrp-btn-black {
+        margin-top: 20px;
+        margin-bottom: 0
+    }
+
+    .underwear101 .two p.smText {
+        font-size: 17px;
+        line-height: 25px;
+        min-height: 150px
+    }
+
+
+
+    .underwear101 .pnkBlock .mrp-btn-black {
+        margin-top: -26px;
+        margin-bottom: 22px
+    }
+
+    .underwear101 .one img.heading {
+        width: 76.5% !important;
+        margin: 6rem auto 6rem;
+    }
+
+    .underwear101 p {
+        font-size: 18px !important;
+        letter-spacing: 1px;
+        line-height: 1.4 !important;
+        font-weight: 400;
+    }
+
+    .underwear101 li a {
+        font-size: 18px;
+    }
+
+    .underwear101 .eight .blkBdr,
+    .underwear101 .eight .pnkBlock {
+        height: 42rem;
+        margin-top: 50px;
+    }
+
+    .underwear101 .nine .labelSize {
+        width: 90%;
+        margin-top: -20rem;
+    }
+
+
+    .row.eight {
+        background-color: #ecced1;
+        padding-bottom: 25rem;
+    }
+
+    .underwear101 h3 {
+        margin: 42px 0 32px;
+    }
+}
+
+@media(max-width:991px) {
+
+    .underwear101 .firstP {
+        margin-top: 20px
+    }
+
+    .underwear101 p {
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 35px;
+        font-weight: 400;
+        line-height: 1.4;
+    }
+
+    .underwear101 .one p {
+        max-width: 90%;
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 35px;
+        font-weight: 400;
+        line-height: 1.4;
+    }
+
+    .underwear101 .one p,
+    .underwear101 p {
+        line-height: 33px;
+        font-size: 20px
+    }
+
+    .underwear101 .mrp-btn-black {
+        width: 160px;
+        padding: 10px
+    }
+
+    .underwear101 .one .mrp-btn-black {
+        margin-top: 30px;
+        margin-bottom: 30px
+    }
+
+
+    .underwear101 li a {
+        font-size: 18px
+    }
+
+    .underwear101 h3 {
+        font-size: 40px;
+        line-height: 43px;
+        margin: 60px 0 20px
+    }
+
+    .underwear101 .blkBdr,
+    .underwear101 .pnkBlock {
+        margin-top: 25px
+    }
+
+    .underwear101 .blkBdr {
+        padding: 15px
+    }
+
+    .underwear101 h4 {
+        font-size: 38px;
+        margin: 30px 0 26px
+    }
+
+
+    .underwear101 .four img {
+        width: 60%
+    }
+
+    .underwear101 .four img {
+        margin-bottom: 25px
+    }
+
+    .underwear101 .seven .bgImg {
+        margin-top: -84px;
+        width: 50%
+    }
+
+    .underwear101 .pnkBlock {
+        padding: 155px 30px 70px
+    }
+
+    .underwear101 .three {
+        padding-bottom: 2.5rem;
+    }
+
+    .underwear101 .two .mrp-btn-black {
+        width: 170px
+    }
+
+    .underwear101 .two p.smText {
+        font-size: 17px;
+        line-height: 25px;
+        min-height: 200px
+    }
+
+    .underwear101 .two .blkBdr img {
+        height: 110px
+    }
+
+    .underwear101 .eight img {
+        max-height: 132px
+    }
+
+    .underwear101 .eight .smText {
+        font-size: 17px;
+        line-height: 25px;
+        height: 46px
+    }
+
+
+    .underwear101 .eight .pnkBlock {
+        padding-top: 139px
+    }
+
+    .underwear101 .one img.heading {
+        margin: 6rem auto 3rem;
+    }
+
+    .underwear101 p {
+        font-size: 14px !important;
+        letter-spacing: 0px;
+    }
+
+
+    .underwear101 .one .mrp-btn-black {
+        width: 160px;
+        padding: 10px;
+    }
+
+    .underwear101 .four img {
+        width: 80%;
+    }
+
+    .underwear101 .nine .measurement {
+        display: flex;
+        grid-template-columns: repeat(3, 1fr);
+        justify-content: space-between;
+    }
+
+    .underwear101 .nine .blkDot {
+        height: 100px;
+        width: 100px;
+        padding-top: 33px;
+        margin-top: 3rem;
+        font-size: 14px !important;
+    }
+
+    .underwear101 h4 {
+        font-size: 22px;
+        margin: 15px 0;
+    }
+
+    .underwear101 .two .blkBdr {
+        border: 5px solid #ECCED1;
+    }
+
+    .underwear101 .eight .blkBdr,
+    .underwear101 .eight .pnkBlock {
+        height: 32rem;
+        margin-top: 50px;
+        border: 5px solid #000000;
+    }
+
+    .underwear101 .blkBdr {
+        height: 35rem;
+    }
+
+    .underwear101 .nine .labelSize {
+        width: 90%;
+        margin-top: -20rem;
+        margin-bottom: 5rem;
+    }
+
+}
+
+@media(max-width:767px) {
+    .underwear101 .no-padd-mob-on-element {
+        padding-left: 0;
+        padding-right: 0
+    }
+
+    .underwear101 .four .blkDot {
+        margin-top: 3rem;
+    }
+
+    .underwear101 .mobMarTop {
+        margin-top: 15px
+    }
+
+    .underwear101 .one .infoWrapper {
+        position: relative;
+        left: 0;
+        right: 0;
+        padding: 0px 15px;
+    }
+
+    .underwear101 .one img.heading {
+        margin: 6rem auto 1.5rem;
+    }
+
+    .underwear101 .firstP {
+        margin-top: 10px
+    }
+
+    .underwear101 h2 {
+        font-size: 44px;
+        margin: 10px auto 0;
+        line-height: 50px
+    }
+
+    .underwear101 .one p {
+        max-width: 100%;
+        margin-top: 0px
+    }
+
+    .underwear101 .one .mrp-btn-black {
+        margin-bottom: 0;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 14px !important;
+        padding: 14px 0 !important;
+        width: 100% !important;
+        margin-top: 10px !important;
+        border: 1px solid;
+        background-color: transparent;
+    }
+
+    .underwear101 li a {
+        font-size: 14px;
+        margin-top: 10px
+    }
+
+    .underwear101 h3 {
+        margin: 60px 0 10px
+    }
+
+    .underwear101 .blkBdr,
+    .underwear101 .pnkBlock {
+        margin-top: 15px;
+        margin: 0 auto;
+    }
+
+    .underwear101 .four img {
+        width: 100%;
+        margin-top: -480px
+    }
+
+    .underwear101 .four img {
+        width: 100%;
+        margin-top: -300px
+    }
+
+    .underwear101 .three {
+        margin-top: 60px;
+        padding-bottom: 320px
+    }
+
+    .underwear101 .four .smText {
+        margin-bottom: 50px
+    }
+
+    .underwear101 .five img {
+        max-height: none
+    }
+
+    .underwear101 .six .mrp-btn-black {
+        width: 90%;
+        margin-bottom: 30px
+    }
+
+    .underwear101 .seven .bgImg {
+        margin-top: -23.5%;
+        width: 100%
+    }
+
+
+
+    .underwear101 .customHeightMob.blkBdr {
+        height: 550px
+    }
+
+    .underwear101 .customHeightMob.blkBdr {
+        height: 580px
+    }
+
+    .underwear101 .pnkBlock h4 {
+        margin-top: 0
+    }
+
+    .underwear101 .one .mrp-btn-black.hideMob {
+        display: none !important
+    }
+
+    .underwear101 .eight .blkBdr .mrp-btn-black,
+    .underwear101 .two .blkBdr .mrp-btn-black {
+        margin: auto;
+        position: absolute;
+        transform: translateY(-99%);
+        margin-bottom: 0;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 14px !important;
+        /* padding: 14px 0 !important; */
+        width: 50% !important;
+        margin-top: 10px !important;
+        border: 1px solid;
+        background-color: transparent;
+        bottom: -5% !important;
+    }
+
+
+    .underwear101 .two .blkBdr img {
+        height: 130px
+    }
+
+    .underwear101 .two .mrp-btn-black {
+        width: 210px
+    }
+
+    .underwear101 .five .mrp-btn-black {
+        width: 90%
+    }
+
+    .underwear101 .five {
+        padding: 0 0 50px;
+        margin-top: -30px
+    }
+
+    .underwear101 .eight .smText {
+        height: auto;
+        width: 84%;
+        margin: 0 auto;
+    }
+
+    .underwear101 .eight .blkBdr .mrp-btn-black {
+        margin-top: 22px;
+        margin-bottom: 0px
+    }
+
+    .underwear101 .eight .blkBdr {
+        height: 33rem;
+        padding-top: 3rem;
+    }
+
+    .underwear101 .blkBdr img {
+        height: auto
+    }
+
+    .underwear101 p.smText span {
+        margin-top: 15px
+    }
+
+    .underwear101 .extendedSizes h3 {
+        margin-top: 20px
+    }
+
+    .underwear101 .three p {
+        max-width: 750px;
+        margin: auto;
+        width: 80%;
+    }
+
+    .underwear101 h3 {
+        font-size: 30px;
+        line-height: 33px;
+        margin: 0px 0 20px
+    }
+
+    .underwear101 .one img {
+        width: 90% !important;
+        margin: 4rem auto 2rem;
+    }
+
+    .underwear101 .nine .labelSize {
+        width: 100%;
+        margin-top: -20rem;
+        margin-bottom: 5rem;
+    }
+
+    .underwear101 .six h3 {
+        margin: 60px 0 0px;
+    }
+
+    .underwear101 .nine .blkDot {
+        height: 100px;
+        width: 100px;
+        padding-top: 33px;
+        margin-top: 3rem;
+        margin-right: 1px;
+        font-size: 14px !important;
+        display: inline-block;
+    }
+
+    .underwear101 .nine .measurement {
+        display: block;
+
+    }
+
+    .underwear101 .nine .btn.mrp-btn-black {
+        margin-top: 2rem;
+        margin-left: 0rem;
+        display: inline-block;
+        width: 140px;
+        padding: 10px;
+    }
+
+    .underwear101 .eight h3 {
+        margin: 60px 0 -24px;
+    }
+
+    .underwear101 ul {
+        padding-left: 0;
+        margin-top: 3.8rem;
+        font-weight: 400;
+    }
+
+    .underwear101 .two {
+        margin-bottom: 5rem;
+    }
+}
